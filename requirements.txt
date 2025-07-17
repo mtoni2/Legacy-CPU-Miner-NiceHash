@@ -1,0 +1,19 @@
+# Requisitos de Python para la GUI de Minería
+# Para instalar: pip install -r requirements.txt
+
+# Tkinter es parte de la instalación estándar de Python en la mayoría de los casos.
+# No necesita ser listado aquí explícitamente a menos que se use una versión específica.
+
+# Módulos estándar de Python, no necesitan instalación con pip:
+# subprocess
+# os
+# threading
+# queue
+# time
+# webbrowser
+
+# Módulo para expresiones regulares (parte de la librería estándar de Python)
+# re
+
+# Si se usaran librerías externas en el futuro, se listarían aquí, por ejemplo:
+# requests==2.28.1
